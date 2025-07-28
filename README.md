@@ -33,5 +33,5 @@ This project replicates the look and feel of Apple's iOS calculator — but deve
 
 | Calculator Screen | 
 |-------------|
-| ![Quiz Screen](Calculator.png) | 
+| ![Calculator Screen](calculator.png) | 
 
