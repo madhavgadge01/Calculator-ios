@@ -27,3 +27,11 @@ This project replicates the look and feel of Apple's iOS calculator — but deve
 
 - [Madhav Gadge](https://github.com/madhavgadge)
 - [LinkDin](https://www.linkedin.com/in/madhav-gadge-610177343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+## 📸 Screenshots
+
+| Calculator Screen | 
+|-------------|
+| ![Quiz Screen](Calculator.png) | 
+
